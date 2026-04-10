@@ -1,2 +1,3 @@
 # Secure-Login-Android-App
-fullstack-authentication-system
+A secure Android login application built with Kotlin and Android Studio featuring authentication screens and secure workflow design.
+
